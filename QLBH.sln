@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLBHWIN", "QLBHWIN\QLBHWIN.csproj", "{4EA5FC6C-E0AB-4873-82DD-D0494D90F941}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLBHWEB", "QLBHWEB\QLBHWEB.csproj", "{00F27F76-C1DB-4C02-A843-0523E177367A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4EA5FC6C-E0AB-4873-82DD-D0494D90F941}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EA5FC6C-E0AB-4873-82DD-D0494D90F941}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EA5FC6C-E0AB-4873-82DD-D0494D90F941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00F27F76-C1DB-4C02-A843-0523E177367A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F27F76-C1DB-4C02-A843-0523E177367A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F27F76-C1DB-4C02-A843-0523E177367A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F27F76-C1DB-4C02-A843-0523E177367A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

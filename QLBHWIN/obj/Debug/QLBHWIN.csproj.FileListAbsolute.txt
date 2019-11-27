@@ -10,3 +10,5 @@ D:\All File\QLBH\QLBHWIN\bin\Debug\QLBHWIN.pdb
 D:\All File\QLBH\QLBHWIN\obj\Debug\QLBHWIN.exe
 D:\All File\QLBH\QLBHWIN\obj\Debug\QLBHWIN.pdb
 D:\All File\QLBH\QLBHWIN\obj\Debug\QLBHWIN.mathang.resources
+E:\Winform project\QLBH\QLBH\QLBHWIN\obj\Debug\QLBHWIN.exe
+E:\Winform project\QLBH\QLBH\QLBHWIN\obj\Debug\QLBHWIN.pdb
