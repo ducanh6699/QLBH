@@ -83,9 +83,9 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="card">
-                                        <h5 class="card-header">Bảng hàng</h5>
+                                        <h5 class="card-header">Bảng hàng <div class="fa-pull-right"><a href="themsua.aspx" class="btn btn-success">Thêm</a></div></h5>
                                         <div class="card-body">
-                                            <asp:GridView ID="mathang" runat="server" Width="100%" AllowPaging="True" PageSize="20" OnRowCommand="mathang_RowCommand">
+                                            <asp:GridView ID="mathang" runat="server" Width="100%" AllowPaging="True" PageSize="20" OnRowCommand="mathang_RowCommand" OnPageIndexChanging="mathang_PageIndexChanging">
                                                 <Columns>
                                                     <asp:ButtonField ButtonType="Button" ControlStyle-CssClass="btn btn-primary form-control" HeaderText="Sửa" Text="Sửa" CommandName="Sua">
                                                         <ControlStyle CssClass="btn btn-primary form-control"></ControlStyle>
@@ -99,7 +99,6 @@
                                     </div>
                                 </div>
                             </div>
-
                         </div>
                     </div>
                 </div>
@@ -160,6 +159,11 @@
 
             </div>
         </div>
+        <script src="../assets/vendor/jquery/jquery-3.3.1.min.js"></script>
+        <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.js"></script>
+        <script src="../assets/vendor/slimscroll/jquery.slimscroll.js"></script>
+        <script src="../assets/vendor/parsley/parsley.js"></script>
+        <script src="../assets/libs/js/main-js.js"></script>
     </form>
 </body>
 </html>

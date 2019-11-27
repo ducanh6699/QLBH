@@ -78,13 +78,24 @@ namespace QLBHWEB
         {
             if (e.CommandName == "Sua")
             {
-
+                int _rowIndex = Convert.ToInt32(e.CommandArgument);
+                String id = mathang.Rows[_rowIndex].Cells[2].Text;
+                Response.Redirect(String.Format("themsua.aspx?id={0}", id));
             }
             if (e.CommandName == "Xoa")
             {
                 int _rowIndex = Convert.ToInt32(e.CommandArgument);
                 String id = mathang.Rows[_rowIndex].Cells[2].Text;
+                themsuaxoa(String.Format("Delete from mathang where id = {0}",id));
+                bindata();
+                Response.Write("<script>alert('Xóa thành công');</script>");
             }
+        }
+
+        protected void mathang_PageIndexChanging(object sender, GridViewPageEventArgs e)
+        {
+            mathang.PageIndex = e.NewPageIndex;
+            bindata();
         }
     }
 }

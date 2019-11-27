@@ -12,3 +12,11 @@ D:\All File\QLBH\QLBHWIN\obj\Debug\QLBHWIN.pdb
 D:\All File\QLBH\QLBHWIN\obj\Debug\QLBHWIN.mathang.resources
 E:\Winform project\QLBH\QLBH\QLBHWIN\obj\Debug\QLBHWIN.exe
 E:\Winform project\QLBH\QLBH\QLBHWIN\obj\Debug\QLBHWIN.pdb
+E:\Winform project\QLBH\QLBH\QLBHWIN\bin\Debug\QLBHWIN.exe
+E:\Winform project\QLBH\QLBH\QLBHWIN\bin\Debug\QLBHWIN.pdb
+E:\Winform project\QLBH\QLBH\QLBHWIN\obj\Debug\QLBHWIN.csprojResolveAssemblyReference.cache
+E:\Winform project\QLBH\QLBH\QLBHWIN\obj\Debug\QLBHWIN.dangnhap.resources
+E:\Winform project\QLBH\QLBH\QLBHWIN\obj\Debug\QLBHWIN.mathang.resources
+E:\Winform project\QLBH\QLBH\QLBHWIN\obj\Debug\QLBHWIN.Menu.resources
+E:\Winform project\QLBH\QLBH\QLBHWIN\obj\Debug\QLBHWIN.Properties.Resources.resources
+E:\Winform project\QLBH\QLBH\QLBHWIN\obj\Debug\QLBHWIN.csproj.GenerateResource.Cache
