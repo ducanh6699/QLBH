@@ -72,7 +72,7 @@
 
                     <div class="col-xl-6 col-lg-6 col-md-6 offset-md-3 col-sm-12 col-12">
                         <div class="card">
-                            <h5 class="card-header">Horizontal Form</h5>
+                            <h5 class="card-header">Thêm/Sửa</h5>
                             <div class="card-body">
                                 <div class="form-group row">
                                     <label for="inputEmail2" class="col-3 col-lg-2 col-form-label text-right">Mã vạch</label>

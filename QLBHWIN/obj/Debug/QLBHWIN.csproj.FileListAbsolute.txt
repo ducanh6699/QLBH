@@ -21,3 +21,4 @@ E:\Winform project\QLBH\QLBH\QLBHWIN\obj\Debug\QLBHWIN.Menu.resources
 E:\Winform project\QLBH\QLBH\QLBHWIN\obj\Debug\QLBHWIN.Properties.Resources.resources
 E:\Winform project\QLBH\QLBH\QLBHWIN\obj\Debug\QLBHWIN.csproj.GenerateResource.Cache
 D:\All File\QLBH\QLBHWIN\obj\Debug\QLBHWIN.banhang.resources
+E:\Winform project\QLBH\QLBH\QLBHWIN\obj\Debug\QLBHWIN.banhang.resources
