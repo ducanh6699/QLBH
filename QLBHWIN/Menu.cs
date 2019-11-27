@@ -53,10 +53,10 @@ namespace QLBHWIN
                     ThuvienWin.Thoat();
                     break;
 
-                //case "Danh sách phòng":
-                //    DSPhong DSPhong = new DSPhong();
-                //    DSPhong.ShowDialog();
-                //    break;
+                case "Bán hàng":
+                    banhang banhang = new banhang();
+                    banhang.ShowDialog();
+                    break;
 
                 //case "Danh sách hóa đơn":
                 //    DSHoaDon DSHoaDon = new DSHoaDon();
